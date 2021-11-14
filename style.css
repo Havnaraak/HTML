@@ -1,0 +1,57 @@
+body {
+    background-image: url(img/fundo6.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-color: black;
+
+}
+
+.geral {
+    margin: auto;
+    max-width: 1080px;
+    text-align: justify;
+    align-items: baseline;
+    color: white;
+    text-shadow:#000 1px -1px 1px, #000 -1px 1px 1px, #000 1px 1px 1px, #000 -1px -1px 1px;
+    text-size-adjust: 12px;
+}
+
+#jose {
+    float: right;
+    margin: auto;
+    margin-right: 400px;
+    margin-top: -10px;
+    width: 220px;
+    height: 210px;
+    border: 2px solid violet;
+}
+
+#title1 {
+    text-decoration: underline violet;
+    font-style: italic;
+}
+
+.social1 {
+    margin: auto;
+    max-width: 1080px;
+    text-align: justify;
+    align-items: baseline;
+    color: white;
+}
+
+#git {
+    background-color: white;
+}
+
+#gif {
+    float: right;
+    margin-right: 80px;
+    margin-bottom: 120px;
+}
+
+#final {
+    text-size-adjust: 24px;
+    text-align: center;
+    margin-top: 80px;
+}
